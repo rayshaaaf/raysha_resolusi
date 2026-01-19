@@ -6,6 +6,7 @@ Rencana Bulanan Raysha
   *ES6
   *Framework JavaScript
    ^ vue
+   ^ react
 -Php framework
 *laravel
 -Phyton
