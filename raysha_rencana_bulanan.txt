@@ -5,3 +5,7 @@ Rencana Bulanan Raysha
 - Ngoding bahasa baru
   *ES6
   *Framework JavaScript
+  ^ angular
+  ^ react
+-PHP
+ ^laravel
