@@ -2,3 +2,5 @@ Rencana Bulanan Raysha
 - Olahraga rutin
 - Kajian
 - Vlog
+- Ngoding bahasa baru
+  *ES6
